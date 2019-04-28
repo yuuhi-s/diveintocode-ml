@@ -1,7 +1,7 @@
 from sklearn.svm import SVC
 def ScratchSVC(X_train, X_test, y_train):
     '''
-    ロジスティック回帰のパイプラインの関数
+    SVMのパイプラインの関数
     Parameters
     ---------------
     X_train : {array-like, sparse matrix}, shape (n_samples, n_features)
