@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bbox_img</folder>
+	<filename>dog1.jpg</filename>
+	<path>/Users/yuhisoejima/python/diveintocode-ml/diveintocode-term2/sprint19/bbox_img/dog1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>25</ymin>
+			<xmax>456</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

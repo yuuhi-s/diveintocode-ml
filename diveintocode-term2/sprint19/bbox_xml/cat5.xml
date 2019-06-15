@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bbox_img</folder>
+	<filename>cat5.jpg</filename>
+	<path>/Users/yuhisoejima/python/diveintocode-ml/diveintocode-term2/sprint19/bbox_img/cat5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>17</ymin>
+			<xmax>489</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
