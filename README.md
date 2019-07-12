@@ -37,3 +37,14 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint23 深層学習スクラッチリカレントニューラルネットワーク](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint23)
 - [Sprint24 ゲート付きリカレントニューラルネットワーク](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint24)
 - Sprint25 Seq2Seq
+
+## Term3  エンジニアプロジェクト
+- Sprint26 個人プロダクト製作準備
+- Sprint27 Generative Advarsarial Network(GAN)
+- Sprint28 slack
+- [Sprint29-31 プロトタイプ作成](https://github.com/yousuke-shiraishi/group_project)
+- Sprint32 レコメンデーション1
+- Sprint33 Flask入門
+- Sprint34 レコメンデーション2
+- Sprint35 時系列データの異常検知
+- Sprint36 時系列データの異常検知2
