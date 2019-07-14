@@ -10,7 +10,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 
 ## Term1 機械学習
 - [Sprint0 機械学習スクラッチ入門](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term1/sprint0)
-- Sprint1 機械学習フロー
+- [Sprint1 機械学習フロー](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term1/sprint1)
 - ~~Sprint2 機械学習スクラッチ入門~~
 - [Sprint3 機械学習スクラッチ線形回帰](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term1/sprint3)
 - [Sprint4 機械学習スクラッチロジスティック回帰](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term1/sprint4)
