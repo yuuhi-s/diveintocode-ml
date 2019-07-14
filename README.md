@@ -39,7 +39,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - Sprint25 Seq2Seq
 
 ## Term3  エンジニアプロジェクト
-- Sprint26 個人プロダクト製作準備
+- Sprint26 [個人プロダクト製作準備](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term3/sprint26)
 - Sprint27 Generative Advarsarial Network(GAN)
 - Sprint28 slack
 - [Sprint29-31 プロトタイプ作成](https://github.com/yousuke-shiraishi/group_project)
