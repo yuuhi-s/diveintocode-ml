@@ -36,7 +36,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - Sprint22 自然言語処理入門
 - [Sprint23 深層学習スクラッチリカレントニューラルネットワーク](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint23)
 - [Sprint24 ゲート付きリカレントニューラルネットワーク](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint24)
-- Sprint25 Seq2Seq
+- [Sprint25 Seq2Seq](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint25)
 
 ## Term3  エンジニアプロジェクト
 - [Sprint26 個人プロダクト製作準備](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term3/sprint26)
