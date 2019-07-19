@@ -33,7 +33,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint19 データセット作成](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint19)
 - [Sprint20 セグメンテーション](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint20)
 - [Sprint21 セグメンテーション2](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint21)
-- Sprint22 自然言語処理入門
+- [Sprint22 自然言語処理入門](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint22)
 - [Sprint23 深層学習スクラッチリカレントニューラルネットワーク](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint23)
 - [Sprint24 ゲート付きリカレントニューラルネットワーク](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint24)
 - [Sprint25 Seq2Seq](https://github.com/yuuhi-s/diveintocode-ml/tree/master/diveintocode-term2/sprint25)
