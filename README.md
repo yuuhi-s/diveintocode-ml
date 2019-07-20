@@ -3,21 +3,21 @@
 DIVE INTO CODE機械学習コースの課題を管理するリポジトリです。
 
 ## 事前学習
-- Week1 Python入門
+- #### Week1 Python入門
   - [Week1 授業前課題1 Pythonを使ってみよう](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week1/week1-work1.ipynb)
   - [Week1 授業課題1 曽呂利新左衛門問題](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week1/week1-session1.ipynb)
   - [Week1 授業課題2 何回折ったら富士山を超えるか問題](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week1/week1-session2.ipynb)
   - [Week1 授業課題3 栗まんじゅう問題](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week1/week1-session3.ipynb)
-- Week2 機械学習のための数学
+- #### Week2 機械学習のための数学
   - [Week2 授業前課題1](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week2/week2-work1.ipynb)
   - [Week2 授業前課題2](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week2/week2-work2.ipynb)
   - [Week2 授業前課題3](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week2/week2-work3.ipynb)
   - [Week2 授業課題 富士下山](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week2/week2-session.ipynb)
-- Week3 探索的データ分析
+- #### Week3 探索的データ分析
   - [Week3 授業前課題1 アヤメを分類しよう](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week3/week3-work1.ipynb)
   - [Week3 授業前課題2 住宅価格を予測しよう](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week3/week3-work2.ipynb)
   - [Week3 授業課題 信用情報を分析しよう](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week3/week3-session.ipynb)
-- Week4 機械学習入門
+- #### Week4 機械学習入門
   - [Week4 授業前課題1 アヤメを分類しよう](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week4/week4-work1.ipynb)
   - [Week4 授業前課題2 住宅価格を回帰分析しよう](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week4/week4-work2.ipynb)
   - [Week4 授業前課題4 オブジェクト指向に慣れよう](https://github.com/yuuhi-s/diveintocode-ml/blob/master/week4/week4-work3.ipynb)
