@@ -38,7 +38,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 ## Term2 深層学習
 - [Sprint10 機械学習スクラッチニューラルネットワーク](https://github.com/yuuhi-s/diveintocode-ml/blob/master/diveintocode-term2/sprint10/sprint10-dl-scratch-neural-network.ipynb)
 - [Sprint11 機械学習スクラッチディープニューラルネットワーク](https://github.com/yuuhi-s/diveintocode-ml/blob/master/diveintocode-term2/sprint11/sprint11-dl-scratch-deep-neural-netowrok.ipynb)
-- Sprint12 機械学習スクラッチ畳み込みニューラルネットワーク1
+- [Sprint12 機械学習スクラッチ畳み込みニューラルネットワーク1](https://github.com/yuuhi-s/diveintocode-ml/blob/master/diveintocode-term2/sprint12/sprint12_dl_scratch_cnn1.ipynb)
 - [Sprint13 機械学習スクラッチ畳み込みニューラルネットワーク2](https://github.com/yuuhi-s/diveintocode-ml/blob/master/diveintocode-term2/sprint13/sprint13-dl-scratch-cnn2.ipynb)
 - [Sprint14 ディープラーニングフレームワーク1](https://github.com/yuuhi-s/diveintocode-ml/blob/master/diveintocode-term2/sprint14/sprint14-dnn-framework1.ipynb)
 - [Sprint15 ディープラーニングフレームワーク2](https://github.com/yuuhi-s/diveintocode-ml/blob/master/diveintocode-term2/sprint15/sprint15-dnn-framework2.ipynb)
